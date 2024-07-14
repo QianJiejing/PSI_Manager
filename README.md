@@ -7,3 +7,5 @@
 商品页展示：
 记录商品目前在仓库中的库存情况。
 ![商品展示](https://github.com/QianJiejing/PSI_Manager/blob/master/vue/public/%E5%95%86%E5%93%81%E9%A1%B5%E5%B1%95%E7%A4%BA.png)
+登录页展示：
+![登录页展示](https://github.com/QianJiejing/PSI_Manager/blob/master/vue/public/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
